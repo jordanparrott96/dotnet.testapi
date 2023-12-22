@@ -1,0 +1,2 @@
+# DotNet Test Api
+Quick test api to learn ASP.NET Core Web API development. Guide followed is here: https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-8.0&tabs=visual-studio-code
